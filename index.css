@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    bottom: 0;
+}
+
+.katalog {
+    border-radius: 18px;
+    width: 150px;
+    background-color: rgba(127, 200, 15, 1);
+}
+
+.header a {
+    text-decoration: none;
+    color: black;
+}
+
+.header a:hover {
+    color: lawngreen;
+}
+
+.headerrr {
+    display: flex;
+    justify-content: ;
+}
